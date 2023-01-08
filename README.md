@@ -5,6 +5,6 @@ API Used:
 - Google Firebase Auth, Firestore
 
 Apple Frameworks:
-Core Location,
-Map Kit,
-Event Kit
+- Core Location,
+- Map Kit,
+- Event Kit
